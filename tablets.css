@@ -1,0 +1,39 @@
+@media screen and (max-width: 992px) {
+  #nameTitle {
+    display: none;
+  }
+  .info-input {
+    width: 200px;
+  }
+  .space-1 {
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+  #certificate  {
+    height: 815px;
+  }
+  #certificate .cards {
+    display: block;
+    width: 250px;
+    align-items: center;
+    margin: 15px;
+  }
+  .cards-text {
+    width: 350px;
+  }
+  .certTitle {
+    margin-left: 0px;
+  }
+  .certImg {
+    width: 350px;
+  }
+  .space-1 #project {
+    margin-top: 0px;
+  }
+  #project .cards {
+    width: 250px;
+  }
+  #project .cards img {
+    width: 250px;
+  }
+}

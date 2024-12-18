@@ -1,0 +1,41 @@
+@media screen and (max-width: 768px) {
+  #navigation {
+    display: inline-block;
+  }
+  #nameTitle {
+    height: 0px;
+    width: 0px;
+  }
+  .info-input {
+    width: 150px;
+  }
+  .space-1 {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  #certificate {
+    height: 990px;
+  }
+  #certificate .section-content {
+    display: block;
+  }
+  .cards-text:nth-child(1) {
+    border-bottom: 1px solid #d6c08d;
+  }
+  #project .section-content {
+    display: block;
+    gap: 20px;
+    width: 300px;
+  }
+  /* #project .cards {
+    align-items: center;
+  } */
+  #project .cards img {
+    width: 350px;
+  }
+  #project .cards {
+    width: 350px;
+    margin: 15px;
+    margin-bottom: 50px;
+  }
+}
